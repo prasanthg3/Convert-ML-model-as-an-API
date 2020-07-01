@@ -35,4 +35,4 @@ This command will start the server and the API url:port can be found in the outp
 In order to test the API, use any API client like postman. start the flask server usig above command and post the parameters to API. The results can be achieved with in the client sent from the API built using the ML model.
 Sample output of the Logistic regression used on the Titanic dataset is shown below,
 
-![Sample result](‪C:\Users\prasa\Pictures\12.png?raw=true "Title")
+![Sample result](https://user-images.githubusercontent.com/47184170/86269666-13cf5780-bb98-11ea-84c1-b1a00731b083.png?raw=true "Title")
